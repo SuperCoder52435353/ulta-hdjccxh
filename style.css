@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f8f8;
+  }
+  
+  video {
+    width: 80%;
+    max-width: 900px;
+    margin-bottom: 20px;
+    border: 2px solid #444;
+    border-radius: 10px;
+  }
+  
+  .download-section {
+    margin-top: 10px;
+  }
+  
+  select, button {
+    padding: 10px;
+    font-size: 16px;
+    margin-left: 10px;
+  }
+  
